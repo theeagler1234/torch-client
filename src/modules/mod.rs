@@ -28,6 +28,7 @@ pub mod hooks;
 pub mod hud_panels;
 pub mod items;
 pub mod list;
+pub mod lunge_swap;
 pub mod nametags;
 mod nearby;
 pub mod new_chunks;
